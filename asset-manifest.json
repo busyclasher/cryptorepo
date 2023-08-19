@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptosia/static/css/main.cc4b3944.css",
+    "main.js": "/cryptosia/static/js/main.cd13b1cc.js",
+    "index.html": "/cryptosia/index.html",
+    "main.cc4b3944.css.map": "/cryptosia/static/css/main.cc4b3944.css.map",
+    "main.cd13b1cc.js.map": "/cryptosia/static/js/main.cd13b1cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4b3944.css",
+    "static/js/main.cd13b1cc.js"
+  ]
+}
